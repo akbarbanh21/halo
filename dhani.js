@@ -44,14 +44,14 @@ autorecording = false
 //----
 
 let owner = '6285850063401' // NO OWNER
-let botname = '©2022 BOT SIMPLE' // NAMA BOT
-let ownername = 'BarrGans' // NAMA OWNER
-let fake = '©2022 BOT SIMPLE' // FAKENYA
-let yt = 'Gada Yt Banh' // YT LU
-let gopay = '083121118546/ AN NUR AINIS' // QRGOPAY / NO GOPAY
-let dana = 'GADA DANA / NUR AINIS' // QRDANA / NO DANA
-let ovo = '083121118546 / NUR AINIS' // QROVO / NO OVO
-let shoppe = '085850063401 / NUR AINIS' // QRSHOPPE / NO SHOPPE
+let botname = '© 20222 BOT SIMPLE' // NAMA BOT
+let ownername = '© Barr Gans' // NAMA OWNER
+let fake = '© 2022 BOT SIMPLE' // FAKENYA
+let yt = 'GADA YT' // YT LU
+let gopay = '083121118546' // QRGOPAY / NO GOPAY
+let dana = '088216196161' // QRDANA / NO DANA
+let ovo = '083121118546' // QROVO / NO OVO
+let pulsa = 'KOSONG' // PULSA
 
 const fakeimage = fs.readFileSync ('./media/dhani.jpg')
 const fakedhani = fs.readFileSync ('./media/thumb.jpg')
