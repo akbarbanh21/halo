@@ -434,27 +434,20 @@ menu =
 ⊛ ${prefix}mlbb
 ⊛ ${prefix}mlb
 
-⊛ ${prefix}antilink _on / off_
-⊛ ${prefix}antivirtex _on / off_
-⊛ ${prefix}welcome _on / off_
-⊛ ${prefix}nsfw _on / off_
-⊛ ${prefix}group _buka / tutup_
-⊛ ${prefix}promote _@tag / reply_
-⊛ ${prefix}demote _@tag / reply_
-⊛ ${prefix}add _628xx_
-⊛ ${prefix}kick _@tag / reply_
-⊛ ${prefix}setpp _reply_
-⊛ ${prefix}setdesc _teks_
-⊛ ${prefix}setname _teks_
-⊛ ${prefix}hidetag _teks_
-⊛ ${prefix}}kontak _628x|Nama_
-⊛ ${prefix}kontag _@tag|Nama_
-⊛ ${prefix}sticktag _Reply Sticker_
-⊛ ${prefix}totag _Reply Image_
-⊛ ${prefix}promoteall
-⊛ ${prefix}demoteall
-⊛ ${prefix}listadmin
-⊛ ${prefix}grupowner
+*𝗚𝗥𝗨𝗣 𝗠𝗘𝗡𝗨*
+
+⊛ ${prefix}antilink *on / off*
+⊛ ${prefix}antivirtex *on / off*
+⊛ ${prefix}welcome *on / off*
+⊛ ${prefix}group *buka / tutup*
+⊛ ${prefix}promote *@tag / reply*
+⊛ ${prefix}demote *@tag / reply*
+⊛ ${prefix}add *628xx*
+⊛ ${prefix}kick *@tag / reply*
+⊛ ${prefix}setpp *reply / cap*
+⊛ ${prefix}setdesc *teks*
+⊛ ${prefix}setname *teks*
+⊛ ${prefix}hidetag *teks*
 ⊛ ${prefix}linkgrup
 ⊛ ${prefix}infogrup
 ⊛ ${prefix}listonline
